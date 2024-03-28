@@ -4,4 +4,4 @@ A Full Stack Developer with a rich background in business development and projec
 
 - [View my GitHub CV](https://github.com/Fawaztarar/CV)
 - [Connect on LinkedIn](https://www.linkedin.com/in/Fawaztarar)
-- [Subscribe to my YouTube Channel](https://www.youtube.com/@Fawaztarar)
+- [YouTube Channel](https://www.youtube.com/@Fawaztarar)
