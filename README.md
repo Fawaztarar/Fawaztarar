@@ -6,6 +6,5 @@ I’m actively building and evolving StepPlay, a next-generation fitness and wel
 I follow MVVM and SOLID principles to ensure scalable, testable, and energy-efficient code — and I’m driven by curiosity, collaboration, and commitment to  continuous learning. 
 
 
-- [GitHub CV](https://github.com/Fawaztarar/CV)
-- [LinkedIn](https://www.linkedin.com/in/Fawaztarar)
+
 
