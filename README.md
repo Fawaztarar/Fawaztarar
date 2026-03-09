@@ -1,9 +1,5 @@
 # Fawaz Tarar
-
-I am passionate iOS Engineer experienced in SwiftUI, Combine, and Firebase, with a strong foundation in watchOS.
-I enjoy creating clean, high-performance, user-friendly apps that combine design, data, and emotion.
-I’m actively building and evolving StepPlay, a next-generation fitness and wellness app integrating HealthKit, watchOS, Apple Music (MusicKit), CallKit, and CarPlay to deliver data-driven motivation through real-time HRV tracking, gamified milestones, and social engagement.
-I follow MVVM and SOLID principles to ensure scalable, testable, and energy-efficient code — and I’m driven by curiosity, collaboration, and commitment to  continuous learning. 
+Product-focused iOS Engineer with production experience designing and evolving scalable iOS and watchOS applications using Swift and SwiftUI. Strong background in MVVM-C architecture, Core Data persistence, CI/CD automation, RESTful APIs, and analytics-driven feature development. Experienced integrating Apple frameworks including HealthKit, MusicKit, CallKit, and CarPlay, with a focus on performance, maintainability, and long-term scalability. Comfortable owning architecture decisions, system integrations, and end-to-end delivery within Agile teams.
 
 
 
